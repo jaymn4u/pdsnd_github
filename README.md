@@ -257,5 +257,5 @@ if __name__ == "__main__":
 	main()
 
 ### Credits
-Created by Sunday O. Ochai.
+Created by Sunday O. Ochai.A special thanks to Udacity and Python
 
