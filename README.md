@@ -4,6 +4,11 @@
 ### Project Title
 US Bikeshare data
 
+### List of softwares used
+Python 3
+Git bash 2.24.0.2
+Vim
+
 ### Description
 The Project inquires of the user the data the user wants to view and filters it according to the user's preference
 
